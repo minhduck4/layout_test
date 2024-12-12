@@ -1,0 +1,6 @@
+Added Component: Designator=HD5(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=HD5-1
+Added Pin To Net: NetName=GND Pin=HD5-2
+Added Member To Class: ClassName=door_clock_ver2 Member=Component HD5 Header 2
+Added Room: Name=door_clock_ver2

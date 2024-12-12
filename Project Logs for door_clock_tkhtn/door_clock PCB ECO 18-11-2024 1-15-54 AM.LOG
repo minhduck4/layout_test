@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator= NewDesignator=C18
+Added Pin To Net: NetName=5v Pin=LCD1-15
+Added Pin To Net: NetName=GND Pin=LCD1-16
+Added Room: Name=door_clock

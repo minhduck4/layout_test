@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=A1 Pin=R9-1
+Removed Pin From Net: NetName=A0 Pin=R22-1
+Added Pin To Net: NetName=B1 Pin=R9-1
+Added Pin To Net: NetName=B0 Pin=R22-1
+Added Room: Name=door_clock_ver2

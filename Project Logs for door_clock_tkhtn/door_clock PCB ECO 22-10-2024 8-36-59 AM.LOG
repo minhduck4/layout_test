@@ -1,0 +1,159 @@
+Added Component: Designator=C1(tu hoa 8mm)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006872"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 100uF 50V 8x11MM"; VariantName = "[No Variations]"
+Added Component: Designator=C2(tu 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(tu 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(tu hoa 8mm)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH006872"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 100uF 50V 8x11MM"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIODE SMA)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode SS34 3A 40V SMA ( 1N5822 SS34A)"; VariantName = "[No Variations]"
+Added Component: Designator=HD1(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=HD2(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=JP?(JP 1x8 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Cái 2.54MM 1x20P Th?ng"; VariantName = "[No Variations]"
+Added Component: Designator=L1(CUON CAM 100uH3A)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002232"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Cu?n C?m 470uH 3A 8x10MM"; VariantName = "[No Variations]"
+Added Component: Designator=LCD1(LCD1602 with Jump)
+Add component (AddParameter): Name = "CHIP"; Value = "HD44780"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "67HZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NCC"; Value = "NSHOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Màn hình LCD 1602 Xanh Lá"; VariantName = "[No Variations]"
+Added Component: Designator=LS1(Coi Chip Speacker)
+Added Component: Designator=RL1(Relay 4 chan HF46F)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH003879"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Relay 5V5A HF46F-G 5-HS1"; VariantName = "[No Variations]"
+Added Component: Designator=STM1(STM32F103 KIT)
+Added Component: Designator=U1(TO263)
+Add component (AddParameter): Name = "Category"; Value = "IC-Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "12 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Current"; Value = "3 (6.0 peak) A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Voltage"; Value = "mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerICTypes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Unreleased"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage"; Value = "mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-40 to +125 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=HD1-2
+Added Pin To Net: NetName=A8 Pin=JP?-1
+Added Pin To Net: NetName=A9 Pin=JP?-2
+Added Pin To Net: NetName=A10 Pin=JP?-3
+Added Pin To Net: NetName=A11 Pin=JP?-4
+Added Pin To Net: NetName=B12 Pin=JP?-5
+Added Pin To Net: NetName=B13 Pin=JP?-6
+Added Pin To Net: NetName=B14 Pin=JP?-7
+Added Pin To Net: NetName=B15 Pin=JP?-8
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=C13 Pin=LCD1-4
+Added Pin To Net: NetName=GND Pin=LCD1-5
+Added Pin To Net: NetName=C14 Pin=LCD1-6
+Added Pin To Net: NetName=A4 Pin=LCD1-11
+Added Pin To Net: NetName=A5 Pin=LCD1-12
+Added Pin To Net: NetName=A6 Pin=LCD1-13
+Added Pin To Net: NetName=A7 Pin=LCD1-14
+Added Pin To Net: NetName=A0 Pin=LS1-1
+Added Pin To Net: NetName=GND Pin=LS1-2
+Added Pin To Net: NetName=A1 Pin=RL1-1
+Added Pin To Net: NetName=GND Pin=RL1-2
+Added Pin To Net: NetName=GND Pin=RL1-3
+Added Pin To Net: NetName=B12 Pin=STM1-1
+Added Pin To Net: NetName=B13 Pin=STM1-2
+Added Pin To Net: NetName=B14 Pin=STM1-3
+Added Pin To Net: NetName=B15 Pin=STM1-4
+Added Pin To Net: NetName=A8 Pin=STM1-5
+Added Pin To Net: NetName=A9 Pin=STM1-6
+Added Pin To Net: NetName=A10 Pin=STM1-7
+Added Pin To Net: NetName=A11 Pin=STM1-8
+Added Pin To Net: NetName=C13 Pin=STM1-22
+Added Pin To Net: NetName=C14 Pin=STM1-23
+Added Pin To Net: NetName=A0 Pin=STM1-25
+Added Pin To Net: NetName=A1 Pin=STM1-26
+Added Pin To Net: NetName=A4 Pin=STM1-29
+Added Pin To Net: NetName=A5 Pin=STM1-30
+Added Pin To Net: NetName=A6 Pin=STM1-31
+Added Pin To Net: NetName=A7 Pin=STM1-32
+Added Pin To Net: NetName=GND Pin=STM1-40
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=3.3v Pin=C3-1
+Added Pin To Net: NetName=3.3v Pin=C4-1
+Added Pin To Net: NetName=3.3v Pin=L1-2
+Added Pin To Net: NetName=3.3v Pin=STM1-38
+Added Pin To Net: NetName=3.3v Pin=U1-4
+Added Net: Name=3.3v
+Added Pin To Net: NetName=5v Pin=LCD1-2
+Added Pin To Net: NetName=5v Pin=STM1-18
+Added Net: Name=5v
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=L1-1
+Added Pin To Net: NetName=NetD1_2 Pin=U1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetHD2_2 Pin=HD2-2
+Added Pin To Net: NetName=NetHD2_2 Pin=RL1-4
+Added Net: Name=NetHD2_2
+Added Pin To Net: NetName=Vin Pin=C1-1
+Added Pin To Net: NetName=Vin Pin=C2-1
+Added Pin To Net: NetName=Vin Pin=HD1-1
+Added Pin To Net: NetName=Vin Pin=HD2-1
+Added Pin To Net: NetName=Vin Pin=U1-1
+Added Net: Name=Vin
+Added Member To Class: ClassName=power_supply Member=Component C1 100uF
+Added Member To Class: ClassName=power_supply Member=Component C2 104
+Added Member To Class: ClassName=power_supply Member=Component C3 104
+Added Member To Class: ClassName=power_supply Member=Component C4 100uF
+Added Member To Class: ClassName=power_supply Member=Component D1 SS34
+Added Member To Class: ClassName=power_supply Member=Component HD1 Header 2
+Added Member To Class: ClassName=door_clock Member=Component HD2 ch?t 
+Added Member To Class: ClassName=door_clock Member=Component JP? Key_pad 4x4
+Added Member To Class: ClassName=power_supply Member=Component L1 470uH - 3A
+Added Member To Class: ClassName=door_clock Member=Component LCD1 LCD1602 XL
+Added Member To Class: ClassName=door_clock Member=Component LS1 Coi Chip Speaker
+Added Member To Class: ClassName=door_clock Member=Component RL1 RelayHF46
+Added Member To Class: ClassName=door_clock Member=Component STM1 KIT STM32F103C8T6
+Added Member To Class: ClassName=power_supply Member=Component U1 LM2976
+Added Room: Name=door_clock
+Added Room: Name=power_supply

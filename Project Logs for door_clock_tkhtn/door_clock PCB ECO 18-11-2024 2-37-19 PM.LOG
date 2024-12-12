@@ -1,0 +1,5 @@
+Change Component Description : Designator=U2 Old Description=ARM® Cortex®-M3 STM32F1 Microcontroller IC 32-Bit 72MHz 64KB (64K x 8) FLASH 48-LQFP (7x7) New Description=ARM® Cortex®-M3 STM32F1 Microcontroller IC 32-Bit 72MHz 64KB (64K x 8) FLASH 48-LQFP (7x7)
+
+Added Pin To Net: NetName=Vin Pin=R10-2
+Added Member To Class: ClassName=door_clock Member=Component C18 SWD
+Added Room: Name=door_clock
